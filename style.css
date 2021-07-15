@@ -1,0 +1,12 @@
+button {
+  cursor: pointer;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  background-color: skyblue;
+  color: white;
+  border: none;
+}
+table {
+  width: 75%;
+  border-spacing: 30px 10px;
+}
